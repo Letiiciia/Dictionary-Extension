@@ -45,26 +45,26 @@ Tecnologias utilizadas 🔧
 ```
 UML 🔧
  +---------------------------+
- |      Usuário               |
+ |      Usuário              |
  +---------------------------+
            |
            |
   +-----------------------------+
-  |   Extensão de Dicionário     |
+  |   Extensão de Dicionário    |
   +-----------------------------+
            |
     +------------------+
-    |    Pesquisar      |
+    |    Pesquisar     |
     +------------------+
            |
            v
   +-----------------------------+
-  |  Obter Definição da Palavra  |
+  |  Obter Definição da Palavra |
   +-----------------------------+
            |
            v
   +-----------------------------+
-  |   Exibir Definição           |
+  |   Exibir Definição          |
   +-----------------------------+
 
 ```
