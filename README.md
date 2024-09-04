@@ -11,7 +11,7 @@ Samantha Raquel de Assis Corrêa
 Nícolas Soares
 ```
 ```javascript
-Estrutura de Arquivos &#x270d;
+Estrutura de Arquivos 📝;
 manifest.json: O arquivo de configuração da extensão.
 index.html: A interface principal da extensão.
 styles.css: Estilos para a interface.
