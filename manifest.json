@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Dicionário Extensão",
+    "version": "1.0",
+    "description": "Extensão de dicionário.",
+    "author": "Letícia Lima, Thayanna Mendes Pedroza, Amanda Lopes Silva, Samantha Raquel de Assis Corrêa, Nícolas Soares",
+    "action": {
+        "default_title": "Dicionário",
+        "default_popup": "index.html"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["styles.css", "script.js"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self';"
+    }
+}
