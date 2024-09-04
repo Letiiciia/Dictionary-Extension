@@ -68,3 +68,42 @@ UML 🔧
   +-----------------------------+
 
 ```
+
+
+```
+Diagrama de Classes 🔧
++----------------------+
+|    Extensão          |
++----------------------+
+| - título: string     |
+| - versão: string     |
++----------------------+
+| + inicializar()      |
+| + carregarPopup()    |
+| + chamarAPI()        |
+| + exibirResultado()  |
++----------------------+
+
+         ^
+         |
++-------------------------+
+|    PopupHTML            |
++-------------------------+
+| - inputPalavra: string  |
+| - botaoPesquisar: Button|
++-------------------------+
+| + capturarEntrada()     |
+| + pesquisarDefinição()  |
++-------------------------+
+
+         ^
+         |
++----------------------+
+|    DictionaryAPI     |
++----------------------+
+| - urlAPI: string     |
+| + buscarDefinição()  |
++----------------------+
+
+```
+
