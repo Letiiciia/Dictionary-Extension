@@ -27,8 +27,8 @@ Baixe o repositório e salve a pasta no seu computador.
 Abra o Chrome e navegue até chrome://extensions/.
 Ative o Modo do Desenvolvedor no canto superior direito.
 Clique em Carregar sem compactação e selecione a pasta onde a extensão está localizada.
-Como Usar
 
+Como Usar
 Clique no ícone da extensão na barra de ferramentas do Chrome.
 Digite uma palavra em inglês no campo de texto.
 Clique no botão "Pesquisar".
